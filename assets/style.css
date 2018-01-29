@@ -1,0 +1,161 @@
+*{
+	margin:0;
+	padding: 0;
+	background: #FFFFF;
+}
+body{
+	background: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+}
+.barra{
+	padding: 10px 20px 10px 20px;
+}
+
+.telefono{
+	color: #1C2833;
+}
+.rojo{
+	color: #FF0000;
+}
+.lupa{
+	color: #1C2833;
+}
+.boton{
+	width: 122px;
+	background: #FF0000;
+	color: white;
+}
+.navegador{
+	border-bottom-color: #FFF;
+}
+.logo{
+	width: 260px;
+	height: 113px;
+	position: relative;
+	top: -72px;
+	left: 26px;
+}
+.user{
+	width: 60px;
+	height: 60px;
+}
+.info{
+	position: relative;
+	top: -75px;
+	left: 76px;
+}
+.titulo{
+	color: #0000FF;
+	font-size: 15px;
+}
+.nombre{
+	color: #0000FF;
+	font-weight: bolder;
+}
+.fecha{
+	font-size: 13px;
+}
+.lista{
+	display: inline;
+	padding: 12px 39px 20px 33px;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #FFF;
+}
+li.lista a{
+	color: black;
+}
+.linea{
+	padding: 20px 30px 20px 10px;
+}
+.saldo{
+	color: #0000FF;
+	font-weight: bolder;
+	padding: 20px 20px 30px 35px;
+}
+.nombre{
+	color: #28BC40;
+}
+.saldoVerde{
+	color: #28BC40;
+	font-weight: bolder;
+	font-size: 50px;
+}
+.oracion{
+	font-size: 13px;
+}
+.valor{
+	font-size: 13px;
+	color: #28BC40;
+	font-weight: bolder;
+	position: relative;
+	top: 0px;
+	right: -106px;
+}
+.valorA{
+	font-size: 13px;
+	color: #28BC40;
+	font-weight: bolder;
+	position: relative;
+	top: 0px;
+	right: -138px;
+}
+.valorB{
+	font-size: 13px;
+	color: #28BC40;
+	font-weight: bolder;
+	position: relative;
+	top: 0px;
+	right: -85px;
+}
+.valorC{
+	font-size: 13px;
+	color: #28BC40;
+	font-weight: bolder;
+	position: relative;
+	top: 0px;
+	right: -96px;
+}
+.valorD{
+	font-size: 13px;
+	color: #28BC40;
+	font-weight: bolder;
+	position: relative;
+	top: 0px;
+	right: -86px;
+}
+.barraIcono{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-top-color: #FFF;
+}
+.barrera{
+	display: inline;
+	padding: 24px 18px 30px 10px;
+	color: #0000FF ;
+	font-size: 16px;
+}
+li.barrera.roja a{
+	color: #FF0000;
+}
+.parrafo{
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.movimientos{
+	color: #0000FF ;
+
+}
+.imprimir{
+	color: black;
+}
+.descargar{
+	color: black;
+	position: relative;
+	top: 0px;
+	right: -181px;
+}
+.parrafoUno{
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
